@@ -1,0 +1,13 @@
+.box{
+    height: 180px;
+}
+.grid-container{
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 1em;
+}
+.temp{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
